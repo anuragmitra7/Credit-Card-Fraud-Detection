@@ -1,1 +1,1 @@
-![image](https://user-images.githubusercontent.com/92513084/161149401-e6bef830-c993-43fc-afc8-67650f7dfb23.png)
+![ML Gitops](https://user-images.githubusercontent.com/92513084/161149584-a1156430-6ecb-4234-b4dc-317975985840.gif)
